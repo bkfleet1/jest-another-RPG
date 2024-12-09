@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/bkfleet1/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "*"
   },
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "*"
   }
 }
